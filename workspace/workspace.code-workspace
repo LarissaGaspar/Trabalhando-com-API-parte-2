@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "eureka",
+			"path": "..\\projetos\\eureka"
+		},
+		{
+			"name": "gateway",
+			"path": "..\\projetos\\gateway"
+		},
+		{
+			"name": "produto",
+			"path": "..\\projetos\\produto"
+		},
+		{
+			"name": "venda",
+			"path": "..\\projetos\\venda"
+		}
+	],
+	"settings": {}
+}
